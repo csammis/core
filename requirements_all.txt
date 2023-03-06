@@ -1170,6 +1170,9 @@ nad_receiver==0.3.0
 # homeassistant.components.keenetic_ndms2
 ndms2_client==0.1.2
 
+# homeassistant.components.neptune_apex_classic
+neptune-apex-classic==0.1.0
+
 # homeassistant.components.ness_alarm
 nessclient==0.10.0
 

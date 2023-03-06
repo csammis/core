@@ -762,6 +762,11 @@ omit =
     homeassistant/components/neato/switch.py
     homeassistant/components/neato/vacuum.py
     homeassistant/components/nederlandse_spoorwegen/sensor.py
+    homeassistant/components/neptune_apex_classic/__init__.py
+    homeassistant/components/neptune_apex_classic/binary_sensor.py
+    homeassistant/components/neptune_apex_classic/const.py
+    homeassistant/components/neptune_apex_classic/select.py
+    homeassistant/components/neptune_apex_classic/sensor.py
     homeassistant/components/nest/legacy/*
     homeassistant/components/netdata/sensor.py
     homeassistant/components/netgear/__init__.py

@@ -3550,6 +3550,12 @@
       "config_flow": false,
       "iot_class": "cloud_polling"
     },
+    "neptune_apex_classic": {
+      "name": "Neptune Apex Classic",
+      "integration_type": "hub",
+      "config_flow": true,
+      "iot_class": "local_polling"
+    },
     "ness_alarm": {
       "name": "Ness Alarm",
       "integration_type": "hub",

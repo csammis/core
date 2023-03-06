@@ -212,6 +212,7 @@ homeassistant.components.mysensors.*
 homeassistant.components.nam.*
 homeassistant.components.nanoleaf.*
 homeassistant.components.neato.*
+homeassistant.components.neptune_apex_classic.*
 homeassistant.components.nest.*
 homeassistant.components.netatmo.*
 homeassistant.components.network.*

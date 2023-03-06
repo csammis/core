@@ -769,6 +769,8 @@ build.json @home-assistant/supervisor
 /homeassistant/components/neato/ @dshokouhi @Santobert
 /tests/components/neato/ @dshokouhi @Santobert
 /homeassistant/components/nederlandse_spoorwegen/ @YarmoM
+/homeassistant/components/neptune_apex_classic/ @csammis
+/tests/components/neptune_apex_classic/ @csammis
 /homeassistant/components/ness_alarm/ @nickw444
 /tests/components/ness_alarm/ @nickw444
 /homeassistant/components/nest/ @allenporter

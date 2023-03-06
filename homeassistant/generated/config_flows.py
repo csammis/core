@@ -277,6 +277,7 @@ FLOWS = {
         "nam",
         "nanoleaf",
         "neato",
+        "neptune_apex_classic",
         "nest",
         "netatmo",
         "netgear",
